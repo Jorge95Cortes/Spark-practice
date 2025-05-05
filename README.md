@@ -59,12 +59,3 @@ The final submission must include:
 3. **Output Files**
    - Summary CSV files
    - Visualizations (if implemented)
-
-## Evaluation Criteria
-
-The project will be evaluated based on:
-- Correct implementation of Spark concepts
-- Quality of data analysis and insights
-- Code organization and documentation
-- Proper utilization of distributed computing techniques
-- Thoroughness of the technical report
