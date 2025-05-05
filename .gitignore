@@ -1,0 +1,44 @@
+# Data files
+*.csv
+Datos/Historicos/
+Datos/*.csv
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# LaTeX auxiliary files
+Reporte/*.aux
+Reporte/*.fdb_latexmk
+Reporte/*.fls
+Reporte/*.log
+Reporte/*.out
+Reporte/*.synctex.gz
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Keep specific README files and project documentation
+!README.md
+
+# Keep visualization outputs in report media folder
+!Reporte/Media/*.png
